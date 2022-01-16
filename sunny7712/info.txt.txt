@@ -1,1 +1,3 @@
 Deleting and reverting commits.
+Git is VCS used to collaborate with other developers. Github
+is the online platform to share your work and view other's work.
