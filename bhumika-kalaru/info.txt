@@ -1,1 +1,2 @@
 Need more understanding regarding git merge.
+git helps in developing projects with multiple contributers.It also helps us in keeping track of all the changes.
