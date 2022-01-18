@@ -16,3 +16,6 @@ pull command
 tsunami03:
 git fetch
 
+rashi-2003:
+git fetch
+
