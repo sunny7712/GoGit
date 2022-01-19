@@ -1,0 +1,2 @@
+some topics in branches were a little confusing but got almost all the doubt sorted rest some practice by me is required.
+it is a vcs used in collaborating in project which maybe is on large scale or small scale.also it is widely used in open sources(something I am interested in due to gsoc.)
